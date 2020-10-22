@@ -8,3 +8,7 @@
 * 熟悉JavaWeb、 微信小程序、Vue、nodeJs、Element-UI等 , 目标是通过自己的努力成为一名优秀的全栈开发工程师。 :file_cabinet: .
 
 * 我目前正在复习我的技能 :bulb:
+
+  <a href="https://github.com/parth-27">
+    <img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=cd6362725e4ec84346a3363afe058d39&t=1603349651">  
+  </a>
