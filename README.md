@@ -10,5 +10,13 @@
 * 我目前正在复习我的技能 :bulb:
 
   <a href="https://github.com/parth-27">
-    <img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=6c840b9b859e5b74dfb4835f2fae9055&t=1603349746"> 微信
+    <img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=6c840b9b859e5b74dfb4835f2fae9055&t=1603349746">
+  </a>
+  
+    <a href="https://github.com/parth-27">
+    <img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=6c840b9b859e5b74dfb4835f2fae9055&t=1603349746">
+  </a>
+  
+    <a href="https://github.com/parth-27">
+    <img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=6c840b9b859e5b74dfb4835f2fae9055&t=1603349746">
   </a>
