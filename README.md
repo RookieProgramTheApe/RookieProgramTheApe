@@ -1,7 +1,7 @@
 <h1 align="center"> 欢迎来到我的github主页 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* 我叫聂洪:blush:	 . 目前，我是贵州电子信息职业技术学院计算机科学的三年级学生，专业是软件技术。:satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
 
