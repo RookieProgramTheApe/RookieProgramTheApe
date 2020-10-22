@@ -7,4 +7,4 @@
 
 * 熟悉JavaWeb、 微信小程序、Vue、nodeJs、Element-UI等 , 目标是通过自己的努力成为一名优秀的全栈开发工程师。 :file_cabinet: .
 
-* 我目前正在复习我的技能 :bulb:，[ 与我联系 ] <a href="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/IMG_8683(20201022-150331).JPG?sign=0afc512e30e32862c460f35deb0df810&t=1603350249"><img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/ding.png?sign=81d6c6a1fc93c16351bf72c56d586908&t=1603350302"></a>
+* 我目前正在复习我的技能 :bulb:，<a href="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/IMG_8683(20201022-150331).JPG?sign=0afc512e30e32862c460f35deb0df810&t=1603350249"><img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/ding.png?sign=81d6c6a1fc93c16351bf72c56d586908&t=1603350302"><center>钉钉<center></a>
