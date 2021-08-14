@@ -9,6 +9,5 @@
 
 * 我目前正在复习我的技能 :bulb:.
 
-* 联系方式：<a href="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/IMG_8683(20201022-150331).JPG?sign=0afc512e30e32862c460f35deb0df810&t=1603350249"><img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/ding.png?sign=81d6c6a1fc93c16351bf72c56d586908&t=1603350302"></a>   <a href="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechatimg.JPG?sign=95f9c4e4b3296f8b4f6ce1b34ab1d10e&t=1603350658"><img src="https://6465-develop-ic57t-1302419554.tcb.qcloud.la/github/wechat.png?sign=2da83536c12ff2476fb2f67661017afa&t=1603350558"></a>
 
 
